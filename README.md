@@ -1,5 +1,5 @@
-# super-password-generator
-
+# Super Password Generator
+ 
 ## Description
 This is a password generator and it has a character length from 8-128. You can use upper case and lower case letters, as well as numbers and special characters for your password. It will display your password on the screen. Each time it generates it will show different passwords each time you press generate password.
 
@@ -31,5 +31,6 @@ THEN the password is either displayed in an alert or written to the page
 ## Screenshot
 ![image](https://github.com/Anissa1021/super-password-generator/assets/144497679/d4128cd2-95e2-477b-a091-c8217d37587b)
 
-## Deploy Link
+## Deployed Link
+https://anissa1021.github.io/super-password-generator/
 
